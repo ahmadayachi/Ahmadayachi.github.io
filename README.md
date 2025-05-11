@@ -1,5 +1,5 @@
 ## About Me
-I’m a Unity Game Developer with a passion for creating immersive and engaging games.
+I'm a Unity game developer who grew up loving video games and now enjoys building them. What started as a passion for playing has turned into a drive to create fun, engaging experiences for others to enjoy.
 
 ## Skills
 - Unity 
