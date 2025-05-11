@@ -50,7 +50,7 @@ I’m a Unity Game Developer with a passion for creating immersive and engaging 
 ![Project_W_Shots](/assets/Project_W_Shots.png)
 - **Development Stage:** Prototype
     
-- **Details:** This was a small prototype where I first explored working with 3D in Unity. I learned how to implement player movement and animation, and used Unity 6’s Behavior Graphs to set up basic AI behavior.
+- **Details:** This is a small prototype where I first explored working with 3D in Unity. I learned how to implement player movement and animation, and used Unity 6’s Behavior Graphs to set up basic AI behavior.
 
 ## Contact Me
 - **Email**: ahmadayachi@outlook.com
