@@ -46,6 +46,7 @@ I'm a Unity game developer who grew up loving video games and now enjoys buildin
 
 - **Details:** Built in Unity with C#, the game features online multiplayer through Netcode for GameObjects and Steamworks integration. Gameplay logic is structured using Chain of Responsibility and State Machine design patterns. The project began as a fun idea based on playing Dudo with friends and was developed to make it easier to enjoy the game remotely.  
 
+**Source Code:**  
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ahmadayachi/Project_A)
 
 
