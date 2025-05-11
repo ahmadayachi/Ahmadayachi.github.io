@@ -35,15 +35,18 @@ I'm a Unity game developer who grew up loving video games and now enjoys buildin
 ![in_game_screen_shot](/assets/Pixel_Suika_Shots.png)
 - A pixel art-style game inspired by the infamous Suika game using Unity and C#. I implemented the core gameplay mechanics, and for optimization, I used object pooling to enhance performance and reduce memory usage.
 
-### Project A 
-![Project_A_Shots](/assets/Project_A_Shots.png)
-- **Description:** Project A is a bluffing card game inspired by the classic board game Dudo. Instead of using dice, players use playing cards to bluff and make strategic decisions. The goal is to create a fun version of the game that can be played with friends on PC.
-    
-- **Technologies Used:** Unity, C#, Netcode for GameObjects, Steamworks.
-    
-- **Development Stage:** Prototype
-    
-- **Details:** Built in Unity with C#, the game features online multiplayer through Netcode for GameObjects and Steamworks integration. Gameplay logic is structured using Chain of Responsibility and State Machine design patterns. The project began as a fun idea based on playing Dudo with friends and was developed to make it easier to enjoy the game remotely.
+### Project A  
+![Project_A_Shots](/assets/Project_A_Shots.png)  
+
+- **Description:** Project A is a bluffing card game inspired by the classic board game Dudo. Instead of using dice, players use playing cards to bluff and make strategic decisions. The goal is to create a fun version of the game that can be played with friends on PC.  
+
+- **Technologies Used:** Unity, C#, Netcode for GameObjects, Steamworks.  
+
+- **Development Stage:** Prototype  
+
+- **Details:** Built in Unity with C#, the game features online multiplayer through Netcode for GameObjects and Steamworks integration. Gameplay logic is structured using Chain of Responsibility and State Machine design patterns. The project began as a fun idea based on playing Dudo with friends and was developed to make it easier to enjoy the game remotely.  
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ahmadayachi/Project_A)
 
 
 ### Project W
