@@ -30,10 +30,27 @@ I’m a Unity Game Developer with a passion for creating immersive and engaging 
     </button>
 </a>
 
-## Personal Project
+## Personal Projects
 ### Pixel Suika-like
 ![in_game_screen_shot](/assets/Pixel_Suika_Shots.png)
 - A pixel art-style game inspired by the infamous Suika game using Unity and C#. I implemented the core gameplay mechanics, and for optimization, I used object pooling to enhance performance and reduce memory usage.
+
+### Project A 
+![Project_A_Shots](/assets/Project_A_Shots.png)
+- **Description:** Project A is a bluffing card game inspired by the classic board game Dudo. Instead of using dice, players use playing cards to bluff and make strategic decisions. The goal is to create a fun version of the game that can be played with friends on PC.
+    
+- **Technologies Used:** Unity, C#, Netcode for GameObjects, Steamworks.
+    
+- **Development Stage:** Prototype
+    
+- **Details:** Built in Unity with C#, the game features online multiplayer through Netcode for GameObjects and Steamworks integration. Gameplay logic is structured using Chain of Responsibility and State Machine design patterns. The project began as a fun idea based on playing Dudo with friends and was developed to make it easier to enjoy the game remotely.
+
+
+### Project W
+![Project_W_Shots](/assets/Project_W_Shots.png)
+- **Development Stage:** Prototype
+    
+- **Details:** This was a small prototype where I first explored working with 3D in Unity. I learned how to implement player movement and animation, and used Unity 6’s Behavior Graphs to set up basic AI behavior.
 
 ## Contact Me
 - **Email**: ahmadayachi@outlook.com
